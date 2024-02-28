@@ -6,5 +6,4 @@ class InstanceVariable
 	InstanceVariable v= new InstanceVariable();
 	System.out.println(v.a);
 	}
-
 }
